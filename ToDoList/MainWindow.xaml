@@ -1,0 +1,42 @@
+﻿<Window x:Class="ToDoList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoList"
+        mc:Ignorable="d"
+        Title="To-Do List" Height="500" Width="300">
+    
+    <Border Margin="0">
+        <Border.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="#FFF9E5D0"/>
+                <GradientStop Color="#FFFF8F21" Offset="0.985"/>
+            </RadialGradientBrush>
+        </Border.Background>
+        <StackPanel>
+            
+            <!--TextBlot to Enter Tasks-->
+            <TextBox x:Name="addTextBox" Margin="20 10" Padding=" 10 7 " KeyDown="EnterAutoAdd">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="1,0">
+                        <GradientStop Color="White" Offset="0.754"/>
+                        <GradientStop Color="#FFFF9D58" Offset="0.12"/>
+                        <GradientStop Color="#FFFF9449" Offset="0.904"/>
+                        <GradientStop Color="White" Offset="0.341"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            
+            <!--Buttons ADD and SAVE-->
+            <Button x:Name="addBtn" Content ="" Width="40" Opacity="0.9" HorizontalAlignment="Right" Margin=" 0 0 20 0" Click="Button_Click"  />
+            <Button x:Name="saveBtn" Content ="" Width="40" Opacity="0.9" HorizontalAlignment="Right" Margin=" 0 0 20 0" Click="ButtonSave_Click" />
+
+            <!--List of all tasks-->
+            <StackPanel x:Name="taskListStack" >
+              
+            </StackPanel>
+            
+        </StackPanel>
+    </Border>
+</Window>

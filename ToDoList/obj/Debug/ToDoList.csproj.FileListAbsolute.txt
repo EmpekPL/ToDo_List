@@ -1,0 +1,16 @@
+c:\users\mp\source\repos\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+c:\users\mp\source\repos\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+c:\users\mp\source\repos\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\MainWindow.g.cs
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\App.g.cs
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\MainWindow.baml
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.g.resources
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+c:\users\mp\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\MP\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.Resource1.resources
